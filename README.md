@@ -31,4 +31,6 @@ This smart door control system is to be designed consisting of Raspberry Pi Pico
 
 ## Contact
 
-- Keirishan Balachandran - [LinkedIn](https://www.linkedin.com/in/balachandran-keirishan-6a5a66197/) - [Gmail](keirishan86@gmail.com)
+- Keirishan Balachandran - [LinkedIn](https://www.linkedin.com/in/balachandran-keirishan-6a5a66197/)
+- Mithurshan Krishnanathan - [Linked In](https://www.linkedin.com/in/krishnanathan-mithurshan-1b9483213/)
+
