@@ -28,3 +28,7 @@ In the future we are planning to increase the security and convenience, we have 
 ## Conclusion
 
 This smart door control system is to be designed consisting of Raspberry Pi Pico, GSM module, LCD Display, Solenoid door lock, jump wires and relay module. If we connect the all the components in a manner and do some coding, we can access the door with the RFID card. We can give any number to this system to send alert SMS to our devices when someone access the door. We hope this system will helpful to the consumers.
+
+## Contact
+
+- Keirishan Balachandran - [LinkedIn](https://www.linkedin.com/in/balachandran-keirishan-6a5a66197/) - [Gmail](keirishan86@gmail.com)
