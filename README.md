@@ -1,4 +1,4 @@
-# RFID Based Smart Door Control System
+# RFID-Based Smart Door Access System with Real-time updates
 
 ## Overview
 
